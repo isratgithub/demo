@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    background: #000;
+    text-align: center;
+}
+ul li{
+    color:blue;
+  
+}
+h3{
+    background: yellow;
+    width:300px;
+    
+}
+ol li{
+    color:green;
+    background: #000;
+}
